@@ -1,0 +1,1 @@
+"""Module containing the main `ResearchManager` and it's associated utilities."""
